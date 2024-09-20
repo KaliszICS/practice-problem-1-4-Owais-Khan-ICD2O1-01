@@ -1,4 +1,9 @@
-
+'''
+    Lesson: Input and F strings
+    Author: Owais Ali Khan
+    Date Created: Sept 19, 2024
+    Date Last Modified: Spet 19, 2024
+'''
 
 def q1():
   word = input("Input a word: ")
@@ -20,7 +25,7 @@ def q4():
 
 #Do not edit code below this comment
 
-q1()
-q2()
-q3()
-q4()
+#q1()
+#q2()
+#q3()
+#q4()
